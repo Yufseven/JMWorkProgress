@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="JMWorkProgress">
+        <attr name="oval_big_color" format="reference|color"/>
+        <attr name="oval_second_color" format="reference|color"/>
+        <attr name="oval_thirdly_color" format="reference|color"/>
+        <attr name="oval_min_color" format="reference|color"/>
+        <attr name="text" format="reference|string"/>
+        <attr name="textStyle" format="integer">
+            <enum name="STROKE" value="0"/>
+            <enum name="FILL" value="1"/>
+            <enum name="FILL_AND_STROKE" value="2"/>
+        </attr>
+        <attr name="ovalStyle" format="integer">
+            <enum name="STROKE" value="0"/>
+            <enum name="FILL" value="1"/>
+            <enum name="FILL_AND_STROKE" value="2"/>
+        </attr>
+        <attr name="textSize" format="integer"/>
+        <attr name="ovalStrokeWidth" format="integer"/>
+    </declare-styleable>
+</resources>
