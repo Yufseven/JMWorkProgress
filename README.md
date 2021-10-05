@@ -1,4 +1,6 @@
-如无法加载图片请跳转：https://blog.csdn.net/qq_42761395/article/details/120508094
+如无法加载图片请跳转：
+掘金：https://juejin.cn/post/7015495122393497614
+CSDN：https://blog.csdn.net/qq_42761395/article/details/120508094
 
 # 一、使用（添加依赖）
 ##  **maven { url 'https://jitpack.io' }**
